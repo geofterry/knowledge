@@ -1,8 +1,8 @@
 ## Amending commits:
 
 1. Add changes to stage
-```
-git add .
+```bash
+$ git add .
 ```
 
 2. Overwrite last commit
